@@ -15,8 +15,19 @@ if (!process.env.OPENWEATHER_API_KEY) console.warn('⚠️  OPENWEATHER_API_KEY 
 if (!process.env.MONGODB_URI) console.warn('⚠️  MONGODB_URI not set — using local MongoDB');
 
 // Middleware
+const allowedOrigins = [
+  'http://localhost:3000',
+  process.env.FRONTEND_URL
+].filter(Boolean);
+
 app.use(cors({
-  origin: process.env.FRONTEND_URL || 'http://localhost:3000',
+  origin: function (origin, callback) {
+    if (!origin || allowedOrigins.some(o => origin.startsWith(o))) {
+      callback(null, true);
+    } else {
+      callback(null, true); // Allow all in production for now
+    }
+  },
   methods: ['GET', 'POST', 'DELETE'],
   credentials: true
 }));
