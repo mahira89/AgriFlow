@@ -1,0 +1,402 @@
+[
+  {
+    "id": "wheat-fertilizer-001",
+    "category": "fertilizer",
+    "crop": "wheat",
+    "title": "Wheat Fertilizer Schedule",
+    "content": "For wheat cultivation in India, apply DAP (Diammonium Phosphate) at 50 kg per acre during sowing time as basal dose. After 20-25 days of sowing (at crown root initiation stage), apply first dose of Urea at 40 kg per acre. A second top dressing of Urea at 30 kg per acre should be done at 45-50 days (tillering stage). For better yield and grain quality, add Zinc Sulfate (ZnSO4) at 10 kg per acre. In zinc-deficient soils, apply zinc sulfate every alternate year. Total NPK recommendation: 120:60:40 kg/hectare for irrigated wheat. Split nitrogen application improves nutrient uptake efficiency and reduces leaching losses.",
+    "tags": ["wheat", "fertilizer", "DAP", "urea", "zinc", "rabi", "NPK", "basal dose"]
+  },
+  {
+    "id": "rice-fertilizer-002",
+    "category": "fertilizer",
+    "crop": "rice",
+    "title": "Rice (Paddy) Fertilizer Schedule",
+    "content": "For rice/paddy cultivation, apply DAP at 50 kg per acre and Muriate of Potash (MOP) at 25 kg per acre as basal dose before transplanting. First top dressing of Urea at 40 kg per acre should be done 30 days after transplanting (active tillering stage). Second top dressing of Urea at 30 kg per acre at 60 days (panicle initiation stage). For hybrid rice varieties, increase nitrogen by 25%. In acidic soils, apply lime at 2-4 quintals per acre before puddling. Apply Zinc Sulfate at 10 kg per acre in zinc-deficient areas. Total recommended dose: 120:60:60 kg NPK/hectare for irrigated rice.",
+    "tags": ["rice", "paddy", "fertilizer", "DAP", "urea", "potash", "kharif", "transplanting"]
+  },
+  {
+    "id": "cotton-fertilizer-003",
+    "category": "fertilizer",
+    "crop": "cotton",
+    "title": "Cotton Fertilizer Management",
+    "content": "For cotton cultivation, apply DAP at 40 kg per acre and MOP at 20 kg per acre as basal dose at sowing. First nitrogen top dressing: Urea 30 kg per acre at 30 days (square formation). Second nitrogen top dressing: Urea 30 kg per acre at 60 days (flowering stage). For Bt cotton hybrids, apply 25% more fertilizer than desi varieties. Foliar spray of 2% DAP at flowering improves boll retention. Apply Magnesium Sulfate at 10 kg per acre if deficiency symptoms (interveinal chlorosis) appear. Recommended NPK dose: 120:60:60 kg/hectare. Avoid excess nitrogen as it promotes vegetative growth at the expense of boll formation.",
+    "tags": ["cotton", "fertilizer", "Bt cotton", "nitrogen", "boll formation", "kharif"]
+  },
+  {
+    "id": "sugarcane-fertilizer-004",
+    "category": "fertilizer",
+    "crop": "sugarcane",
+    "title": "Sugarcane Fertilizer Schedule",
+    "content": "Sugarcane is a heavy feeder requiring substantial nutrition. Apply DAP at 60 kg per acre and MOP at 40 kg per acre at planting as basal dose. Urea application in splits: 50 kg per acre at 30 days, 50 kg at 60 days, and 50 kg at 90 days (total 150 kg Urea per acre). Apply FYM or press mud at 10 tonnes per acre before planting. For ratoon crop, apply 25% more nitrogen. Recommended NPK: 300:80:120 kg/hectare. Apply Ferrous Sulfate at 25 kg per acre for iron deficiency in alkaline soils. Earthing up should be done after each top dressing to prevent nitrogen loss.",
+    "tags": ["sugarcane", "fertilizer", "heavy feeder", "ratoon", "press mud", "earthing up"]
+  },
+  {
+    "id": "tomato-pest-005",
+    "category": "pest_control",
+    "crop": "tomato",
+    "title": "Tomato Pest Management",
+    "content": "Major tomato pests in India: 1) Fruit borer (Helicoverpa armigera): Makes holes in fruits, causes 30-40% damage. Use pheromone traps (5-6 per acre) for monitoring. Spray Neem oil at 5ml per liter weekly as preventive. For severe infestation, use Spinosad 45SC at 0.3ml per liter or Emamectin benzoate at 0.4g per liter. 2) Aphids: Cause leaf curling, transmit viruses. Spray Imidacloprid at 0.5ml per liter. 3) Whitefly: Vector for Tomato Leaf Curl Virus. Use yellow sticky traps (12 per acre). Spray Thiamethoxam 25WG at 0.5g per liter. 4) Leaf miner: Serpentine mines on leaves. Spray Abamectin at 0.5ml per liter. Practice crop rotation and remove crop residues after harvest.",
+    "tags": ["tomato", "pest", "fruit borer", "aphids", "whitefly", "neem oil", "IPM"]
+  },
+  {
+    "id": "cotton-pest-006",
+    "category": "pest_control",
+    "crop": "cotton",
+    "title": "Cotton Pest Management (IPM)",
+    "content": "Major cotton pests: 1) Pink bollworm (Pectinophora gossypiella): Most destructive pest. Damaged bolls with pink larvae inside. Install pheromone traps at 8-10 per acre. Use Bt cotton varieties for resistance. Spray Profenophos 50EC at 2ml per liter for severe attack. 2) American bollworm: Install bird perches (20 per acre). Use Trichogramma egg parasitoids (1 lakh eggs per acre, 6 releases). 3) Jassids (leafhoppers): Leaf curling and yellowing. Spray Acetamiprid at 0.2g per liter. 4) Aphids: Cause sooty mold on leaves. Spray Imidacloprid at 0.5ml per liter. 5) Mealybug: White cottony masses. Destroy affected plants, release Cryptolaemus beetles. IPM approach: Use trap crops (marigold borders), maintain field hygiene, rotate chemicals.",
+    "tags": ["cotton", "pest", "pink bollworm", "IPM", "Bt cotton", "biological control"]
+  },
+  {
+    "id": "wheat-disease-007",
+    "category": "disease",
+    "crop": "wheat",
+    "title": "Wheat Diseases and Management",
+    "content": "Major wheat diseases: 1) Rust diseases - Yellow rust (Puccinia striiformis): Yellow-orange stripes on leaves, favored by cool temperatures (10-15°C). Brown rust (P. recondita): Orange-brown pustules scattered on leaves. Black rust (P. graminis): Dark brown to black pustules on stems. Treatment: Spray Propiconazole 25EC at 1ml per liter or Tebuconazole at 1ml per liter at first appearance. 2) Loose smut: Black powdery mass replacing grains. Use certified disease-free seeds. Treat seeds with Carboxin+Thiram at 2g per kg seed. 3) Karnal bunt: Partially bunted grains with fishy smell. Treat seeds with Thiram at 2.5g per kg. Grow resistant varieties like HD-2967, PBW-343. Avoid late sowing. 4) Powdery mildew: White powdery patches on leaves. Spray Sulfur WP at 2g per liter.",
+    "tags": ["wheat", "disease", "rust", "smut", "karnal bunt", "fungicide", "resistant varieties"]
+  },
+  {
+    "id": "tomato-disease-008",
+    "category": "disease",
+    "crop": "tomato",
+    "title": "Tomato Diseases and Management",
+    "content": "Major tomato diseases: 1) Early blight (Alternaria solani): Dark brown concentric ring spots on lower leaves. Remove infected leaves. Spray Mancozeb 75WP at 2g per liter or Chlorothalonil at 2g per liter at 10-day intervals. 2) Late blight (Phytophthora infestans): Water-soaked lesions, white mold on leaf undersides. Spray Metalaxyl+Mancozeb at 2.5g per liter. Very destructive in cool, humid weather. 3) Bacterial wilt (Ralstonia): Sudden wilting without yellowing. No chemical cure - use resistant varieties, practice crop rotation for 3-4 years. 4) Tomato Leaf Curl Virus (ToLCV): Upward curling, yellowing, stunted growth. Transmitted by whitefly. Control whitefly, remove infected plants, use resistant varieties (Arka Rakshak). 5) Fusarium wilt: Lower leaf yellowing, vascular browning. Use resistant rootstocks, soil solarization.",
+    "tags": ["tomato", "disease", "blight", "bacterial wilt", "leaf curl virus", "fusarium"]
+  },
+  {
+    "id": "organic-composting-009",
+    "category": "organic_farming",
+    "crop": "general",
+    "title": "Composting Techniques for Indian Farms",
+    "content": "Composting methods for Indian farmers: 1) Heap/Windrow composting: Layer green waste (crop residues, leaves, vegetable scraps) and dry waste (straw, dried leaves) in 3:1 ratio. Add cow dung slurry (10%) as activator. Maintain moisture at 60%. Turn heap every 15 days. Compost ready in 2-3 months. 2) Vermicomposting: Use Eisenia fetida (red worms) at 1 kg per 100 kg waste. Prepare beds of 10ft x 3ft x 1.5ft. Feed shredded organic waste. Harvest after 45-60 days. Produces 60-70 kg vermicompost per 100 kg waste. 3) NADEP composting: Brick tank of 12ft x 5ft x 3ft. Fill with agricultural waste, cow dung, and soil in layers. Plaster with cow dung-mud mix. Ready in 3-4 months. Produces 3-4 tonnes per tank. 4) Panchagavya: Mix cow dung (7 kg), cow urine (3 liters), milk (2 liters), curd (2 liters), ghee (1 liter), sugarcane juice (3 liters), coconut water (3 liters), banana (12 nos). Ferment for 21 days. Use at 3% dilution as foliar spray.",
+    "tags": ["organic", "compost", "vermicompost", "NADEP", "panchagavya", "cow dung"]
+  },
+  {
+    "id": "organic-pesticide-010",
+    "category": "organic_farming",
+    "crop": "general",
+    "title": "Organic Pest Control Methods",
+    "content": "Natural pest control methods: 1) Neem-based spray: Crush 5 kg neem leaves, soak in 10 liters water overnight. Strain and dilute 1:5. Spray for sucking pests. Neem oil (5ml per liter + soap) for broad spectrum pest control. Neem cake at 250 kg per acre as soil application. 2) Dashaparni: Mix 5 liters cow urine + 5 kg neem leaves + 5 kg custard apple leaves + 2 kg hot pepper + 500g garlic + 500g ginger + 2 kg Datura leaves. Boil for 2 hours, cool, filter. Dilute 1:10 and spray. 3) Buttermilk spray: 1 liter buttermilk in 10 liters water. Effective against powdery mildew. 4) Trichoderma viride: Apply at 2 kg per acre for soil-borne diseases. Mix with FYM and apply. 5) Beauveria bassiana: Spray at 5g per liter for whitefly, aphids, and thrips. 6) Trichogramma cards: 1 lakh eggs per acre per release, 6 releases for bollworm control.",
+    "tags": ["organic", "pesticide", "neem", "dashaparni", "Trichoderma", "biological control"]
+  },
+  {
+    "id": "drip-irrigation-011",
+    "category": "irrigation",
+    "crop": "general",
+    "title": "Drip Irrigation System for Indian Farms",
+    "content": "Drip irrigation saves 40-60% water compared to flood irrigation and increases yield by 20-30%. Components: Main line, sub-main line, lateral lines, drippers. Dripper spacing: 30-40cm for vegetables, 1-2m for fruit trees. Operating pressure: 1-1.5 kg/cm2. Water requirement: Tomato (3-4 liters/plant/day), Banana (15-20 liters/plant/day), Sugarcane (5-6 liters/plant/day). Fertigation: Mix water-soluble fertilizers (19:19:19 NPK or 13:0:45) through drip system at 5 kg per acre per week. Government subsidy: 55-90% subsidy under PMKSY (Pradhan Mantri Krishi Sinchayee Yojana) for small and marginal farmers. Maintenance: Flush laterals monthly, check filters weekly, replace damaged drippers. Annual cost: Rs 30,000-50,000 per acre (before subsidy).",
+    "tags": ["irrigation", "drip", "water saving", "fertigation", "PMKSY", "subsidy"]
+  },
+  {
+    "id": "wheat-irrigation-012",
+    "category": "irrigation",
+    "crop": "wheat",
+    "title": "Wheat Irrigation Schedule",
+    "content": "Wheat requires 4-6 irrigations depending on soil type and weather. Critical irrigation stages: 1) Crown root initiation (CRI) stage: 20-25 days after sowing (DAS) - Most critical irrigation. Skipping this reduces yield by 30-40%. 2) Tillering stage: 40-45 DAS - Promotes tiller formation. 3) Late jointing/Stem elongation: 60-65 DAS - Supports stem growth. 4) Flowering/Heading: 80-85 DAS - Critical for grain setting. 5) Milk stage: 95-100 DAS - Important for grain filling. 6) Dough stage: 105-110 DAS - Last irrigation. If water is limited, prioritize CRI and flowering stages. Each irrigation: 6-7 cm depth. Avoid waterlogging. Total water requirement: 35-40 cm. In sandy soils, increase frequency with lighter irrigations. Stop irrigation 15-20 days before harvest.",
+    "tags": ["wheat", "irrigation", "CRI stage", "critical stages", "water management", "rabi"]
+  },
+  {
+    "id": "rice-cultivation-013",
+    "category": "cultivation",
+    "crop": "rice",
+    "title": "Rice Cultivation Complete Guide",
+    "content": "Rice cultivation in India: 1) Nursery preparation: Prepare raised seedbed of 10m x 1.5m for each acre. Apply FYM (500 kg) and DAP (5 kg) per nursery bed. Sow pre-germinated seeds at 30 kg per acre nursery. Keep nursery moist for first week, then maintain thin layer of water. Seedlings ready in 20-25 days. 2) Main field preparation: 2-3 ploughings followed by puddling. Apply basal fertilizers before transplanting. 3) Transplanting: Plant 2-3 seedlings per hill at 20x15 cm spacing. Transplant at 4-5 cm depth. Best time: June-July (Kharif). 4) Water management: Maintain 5 cm standing water during vegetative stage. Alternate wetting and drying (AWD) saves 20-30% water. Drain field 15 days before harvest. 5) SRI method (System of Rice Intensification): Single seedling at 25x25 cm, transplant at 8-12 day old, intermittent irrigation. Yields 25-30% more with 50% less water.",
+    "tags": ["rice", "cultivation", "nursery", "transplanting", "SRI method", "puddling", "kharif"]
+  },
+  {
+    "id": "soil-testing-014",
+    "category": "soil_health",
+    "crop": "general",
+    "title": "Soil Testing and Health Management",
+    "content": "Soil testing is essential for balanced fertilizer use. How to collect soil sample: Take samples from 15-20 spots in a zigzag pattern at 15 cm depth. Mix thoroughly, take 500g representative sample. Send to nearest Soil Testing Laboratory (free at government labs). Key parameters: pH (ideal 6.5-7.5), EC (electrical conductivity), Organic Carbon (should be >0.5%), N-P-K levels, micronutrients (Zn, Fe, Mn, Cu, B). Soil health improvement: 1) Apply FYM/compost at 5-10 tonnes per acre annually. 2) Green manuring with Dhaincha/Sunn hemp - sow 45 days before main crop, incorporate at flowering. 3) Crop rotation: Cereals with legumes to fix nitrogen. 4) Avoid burning crop residues - use Happy Seeder for wheat sowing in paddy residue. 5) Apply gypsum at 2 quintals per acre in sodic soils. 6) Mulching to conserve moisture and improve soil biology. Soil Health Card scheme provides free testing every 2 years.",
+    "tags": ["soil", "testing", "pH", "organic carbon", "soil health card", "green manuring"]
+  },
+  {
+    "id": "potato-cultivation-015",
+    "category": "cultivation",
+    "crop": "potato",
+    "title": "Potato Cultivation Guide",
+    "content": "Potato is a major Rabi crop. Soil: Well-drained sandy loam with pH 5.5-6.5. Seed treatment: Treat seed tubers with Mancozeb (3g/liter) for 15 minutes. Plant whole tubers (30-40g) or cut pieces with 2-3 eyes. Spacing: 60cm between rows, 20cm between plants. Planting depth: 5-7 cm. Fertilizer: DAP 60 kg/acre + MOP 40 kg/acre as basal. Urea 40 kg/acre at 30 days (earthing up). Total NPK: 180:80:100 kg/hectare. Irrigation: First irrigation immediately after planting. Subsequent irrigations at 7-10 day intervals. Stop irrigation 15 days before harvesting. Earthing up: Done twice at 25 and 45 days to protect tubers from greening. Major diseases: Late blight - spray Mancozeb preventively every 10 days from 45 DAS. Harvest: 90-110 days. Yield: 20-25 tonnes per acre. Store at 2-4°C in cold storage or use CIPC for ambient storage.",
+    "tags": ["potato", "cultivation", "seed treatment", "earthing up", "late blight", "cold storage", "rabi"]
+  },
+  {
+    "id": "onion-cultivation-016",
+    "category": "cultivation",
+    "crop": "onion",
+    "title": "Onion Cultivation and Storage",
+    "content": "Onion cultivation in India: Seasons - Kharif (June-July), Late Kharif (October), Rabi (December-January). Nursery: Sow seeds in raised beds. Transplant 6-8 week old seedlings. Spacing: 15x10 cm. Varieties: Rabi - Pusa Red, Agrifound Dark Red. Kharif - Baswant 780, N-53. Fertilizer: FYM 20 tonnes/hectare, NPK 110:40:60 kg/hectare. Apply full P&K + half N as basal, remaining N in two splits. Irrigation: Light and frequent. Critical at bulb formation (45-60 DAT). Stop irrigation 10 days before harvest. Major problems: 1) Thrips - spray Fipronil at 1ml/liter. 2) Purple blotch - spray Mancozeb at 2g/liter. 3) Stemphylium blight. Harvest: When 50% neck fall occurs. Cure bulbs in shade for 3-5 days. Storage: Store in ventilated structures (bottom and side ventilation). Spread in 15cm layers. Treat with Maleic Hydrazide spray 15 days before harvest to prevent sprouting. Storage losses: 25-30% normal, can reduce to 10% with proper management.",
+    "tags": ["onion", "cultivation", "storage", "thrips", "purple blotch", "neck fall", "curing"]
+  },
+  {
+    "id": "government-schemes-017",
+    "category": "schemes",
+    "crop": "general",
+    "title": "Government Schemes for Indian Farmers",
+    "content": "Key government schemes for farmers: 1) PM-KISAN: Rs 6,000 per year in 3 installments directly to farmer's bank account. For all landholding farmer families. 2) PM Fasal Bima Yojana (PMFBY): Crop insurance at 2% premium for Kharif, 1.5% for Rabi, 5% for commercial crops. Covers yield loss from natural calamities. Enroll through bank or CSC within cutoff date. 3) Kisan Credit Card (KCC): Short-term crop loan at 4% interest (with subvention). Limit based on landholding and crop. Includes accidental insurance of Rs 50,000. 4) PMKSY - Per Drop More Crop: 55-90% subsidy on micro-irrigation (drip, sprinkler). Apply through state agriculture department. 5) Soil Health Card: Free soil testing every 2 years with fertilizer recommendations. 6) e-NAM: Online trading platform for APMC mandis. Register through nearest mandi. 7) Organic Farming: PKVY scheme provides Rs 50,000 per hectare over 3 years for organic certification. 8) PM Kisan Samman Nidhi Yojana and National Mission for Sustainable Agriculture also provide support.",
+    "tags": ["government", "schemes", "PM-KISAN", "PMFBY", "KCC", "PMKSY", "subsidy", "insurance"]
+  },
+  {
+    "id": "market-strategy-018",
+    "category": "market",
+    "crop": "general",
+    "title": "Agricultural Marketing Strategies",
+    "content": "Smart marketing for farmers: 1) APMC Mandi system: Register at local mandi. Check prices at multiple mandis before selling. Use Agmarknet portal or Kisan Suvidha app for daily prices. 2) Direct marketing: Sell directly to consumers through farmer markets (Apni Mandi, Rythu Bazaar). Higher margins (20-30% more than mandi). 3) FPO (Farmer Producer Organization): Join or form FPO for collective bargaining. FPOs get better prices, access to credit, and government support. 4) Contract farming: Agreement with companies for guaranteed price. Reduces price risk. 5) Value addition: Dal processing, flour milling, pickle making, dehydration. Can increase income by 2-3 times. 6) Grading and sorting: Always grade produce by size and quality. A-grade fetches 20-40% premium. 7) Storage: Use warehouse receipt system for loans. Store grains at proper moisture (wheat: 12%, rice: 14%). 8) e-NAM: Register on National Agriculture Market for online trading across state mandis.",
+    "tags": ["market", "APMC", "mandi", "FPO", "contract farming", "value addition", "e-NAM"]
+  },
+  {
+    "id": "maize-cultivation-019",
+    "category": "cultivation",
+    "crop": "maize",
+    "title": "Maize Cultivation Guide",
+    "content": "Maize (corn) cultivation: Can be grown in all three seasons (Kharif, Rabi, Spring). Soil: Well-drained loamy soil, pH 5.5-7.5. Seed rate: 8-10 kg per acre for hybrids. Spacing: 60x20 cm. Popular varieties: DHM-117, HQPM-1, Vivek QPM-9. Fertilizer: NPK at 120:60:40 kg/hectare. Apply full P&K + 1/3 N at sowing. Second 1/3 N at knee-high stage (25-30 DAS). Last 1/3 N at tasseling (45-50 DAS). Irrigation: Critical stages - knee-high, flowering, grain filling. Total 4-5 irrigations. Major pests: Fall armyworm - spray Emamectin benzoate at 0.4g/liter. Stem borer - apply Carbofuran granules in leaf whorls. Diseases: Turcicum leaf blight - spray Mancozeb at 2g/liter. Harvest at 20-25% moisture. Dry to 12% for safe storage. Yield: 30-40 quintals per acre (hybrid). Maize residue management: Can be used as fodder or mulch. Avoid burning.",
+    "tags": ["maize", "corn", "hybrid", "fall armyworm", "QPM", "fodder"]
+  },
+  {
+    "id": "banana-cultivation-020",
+    "category": "cultivation",
+    "crop": "banana",
+    "title": "Banana Cultivation and Management",
+    "content": "Banana cultivation: Major varieties - Grand Naine (Cavendish), Robusta, Poovan, Nendran. Planting: Use tissue culture plants for uniformity. Spacing: 1.8m x 1.8m (1200 plants per acre). Pit size: 45x45x45 cm. Fill pits with topsoil + 10 kg FYM + 250g Neem cake. Fertilizer: Total NPK per plant per year - N:200g, P:60g, K:300g. Apply in 4-5 splits starting 2 months after planting. Potassium is crucial for bunch weight. Apply micronutrients (FeSO4, ZnSO4) through fertigation. Irrigation: Drip irrigation at 15-20 liters per plant per day. Critical during bunch development. Desuckering: Remove unwanted suckers, keep only one sword sucker for ratoon. Propping: Support plants with bamboo when bunch is heavy. Bunch cover: Use blue polythene bags to protect from sunburn and pests. Harvest: 12-14 months after planting. Yield: 25-30 tonnes per acre.",
+    "tags": ["banana", "tissue culture", "Grand Naine", "fertigation", "desuckering", "bunch cover"]
+  },
+  {
+    "id": "chilli-cultivation-021",
+    "category": "cultivation",
+    "crop": "chilli",
+    "title": "Chilli Cultivation and Pest Management",
+    "content": "Chilli (hot pepper) cultivation: Varieties - Guntur types, Byadgi, Pusa Jwala, Kashmiri. Nursery: Sow seeds in raised beds with FYM. Transplant 35-40 day old seedlings. Spacing: 60x45 cm. Fertilizer: NPK at 120:60:50 kg/hectare. Full P&K + half N as basal. Remaining N in 2 splits at 30 and 60 DAT. Major pests: 1) Thrips (Scirtothrips dorsalis) - Most damaging. Causes upward leaf curl. Spray Fipronil 5SC at 1ml/liter or Spinosad at 0.3ml/liter. 2) Mites - Yellow mosaic symptoms. Spray Spiromesifen at 0.5ml/liter. 3) Fruit borer - Spray Emamectin benzoate. Diseases: 1) Anthracnose - dark sunken lesions on fruits. Spray Carbendazim at 1g/liter. 2) Chilli Leaf Curl Virus - transmitted by whitefly. Use resistant varieties. 3) Bacterial wilt - use raised beds, resistant varieties. Harvest: 75-90 days after transplanting. Dry in shade for quality. Yield: 8-12 quintals dry chilli per acre.",
+    "tags": ["chilli", "pepper", "thrips", "mites", "anthracnose", "leaf curl"]
+  },
+  {
+    "id": "crop-rotation-022",
+    "category": "soil_health",
+    "crop": "general",
+    "title": "Crop Rotation Practices for Indian Farming",
+    "content": "Crop rotation improves soil health, breaks pest cycles, and increases yield. Recommended rotations: 1) Rice-Wheat system (Indo-Gangetic plains): Most common. Add green manure (Dhaincha) between rice harvest and wheat sowing. 2) Rice-Mustard-Moong: Diversified, adds nitrogen through moong. 3) Cotton-Wheat: Include chickpea occasionally. 4) Sugarcane-Wheat-Moong: After 2-3 years of sugarcane. 5) Maize-Potato-Onion: High-value rotation. 6) Vegetables: Tomato-Cabbage-Cucumber-Legume rotation. Rules of rotation: Alternate deep-rooted with shallow-rooted crops. Follow heavy feeder with light feeder or legume. Don't repeat same crop family in succession (e.g., tomato after brinjal). Include at least one legume per year to fix 20-30 kg nitrogen per acre. Intercropping: Sugarcane + potato/onion, Maize + cowpea, Cotton + groundnut.",
+    "tags": ["crop rotation", "intercropping", "soil health", "legume", "nitrogen fixation"]
+  },
+  {
+    "id": "post-harvest-023",
+    "category": "post_harvest",
+    "crop": "general",
+    "title": "Post-Harvest Management and Storage",
+    "content": "Post-harvest losses in India are 10-25% for grains and 30-40% for fruits/vegetables. Reducing losses: 1) Grain storage: Dry to safe moisture (wheat: 12%, rice: 14%, maize: 12%). Use hermetic (airtight) bags like Purdue Improved Crop Storage (PICS) bags. Fumigate with Aluminum Phosphide tablets (2 tablets per tonne) in sealed structures. Use Neem leaves between grain layers as natural protectant. 2) Vegetable storage: Pre-cool harvested vegetables. Use zero-energy cool chamber (ZECC) - can reduce temperature by 10-15°C. Made with bricks, sand, and water at Rs 3,000-5,000. 3) Cold chain: Cold storage at 0-4°C for most vegetables. Potato at 2-4°C, Onion in ventilated storage. 4) Warehouse receipt: Store in registered warehouses, get 70% loan on warehouse receipt through banks. 5) Processing: Solar drying, pickle making, chips, flour milling adds value. Government provides subsidy for food processing units under PMKSY.",
+    "tags": ["post-harvest", "storage", "grain storage", "cold chain", "PICS bags", "processing"]
+  },
+  {
+    "id": "water-conservation-024",
+    "category": "irrigation",
+    "crop": "general",
+    "title": "Water Conservation in Agriculture",
+    "content": "Water conservation techniques for Indian farmers: 1) Mulching: Apply straw, plastic, or leaf mulch at 5 tonnes per acre. Reduces evaporation by 30-40%, suppresses weeds. Plastic mulch for vegetables increases yield by 20-30%. 2) Raised bed planting: For wheat, vegetables. Saves 30% water compared to flat bed. Plant on bed tops, irrigate in furrows. 3) Laser land leveling: Ensures uniform water distribution. Saves 20-25% irrigation water. Cost: Rs 1,000-1,500 per hour. Government subsidy available. 4) Rainwater harvesting: Farm ponds (dug-out or lined) to store runoff. Size: 20m x 20m x 3m for 1-acre supplementary irrigation. MGNREGA provides support for farm ponds. 5) Alternate wetting and drying (AWD) for rice: Saves 20-30% water with no yield loss. Irrigate when water level falls 15 cm below soil surface. 6) Scheduling: Use tensiometer or feel method. Irrigate at 50% depletion of available soil moisture for most crops.",
+    "tags": ["water", "conservation", "mulching", "raised bed", "rainwater harvesting", "AWD"]
+  },
+  {
+    "id": "brinjal-cultivation-025",
+    "category": "cultivation",
+    "crop": "brinjal",
+    "title": "Brinjal (Eggplant) Cultivation",
+    "content": "Brinjal cultivation: Varieties - Pusa Purple Long, Pusa Kranti, Arka Keshav, Punjab Sadabahar. Soil: Well-drained loamy soil, pH 5.5-6.5. Nursery: Raise seedlings in pro-trays or raised beds. Transplant 4-5 week old seedlings. Spacing: 75x60 cm. Fertilizer: FYM 10 tonnes/acre + NPK 150:80:80 kg/hectare. Half N + full P&K as basal. Remaining N in 2 splits at 30 and 60 DAT. Irrigation: Regular irrigation at 5-7 day intervals. Drip irrigation preferred. Critical during flowering and fruit development. Major pest: Fruit and shoot borer (Leucinodes orbonalis) - Most destructive, causes 60-70% damage. Remove affected shoots weekly. Install pheromone traps (8 per acre). Spray Spinosad at 0.3ml/liter or Emamectin benzoate at 0.4g/liter. Neem oil spray (5ml/liter) weekly as preventive. Use resistant varieties if available. Harvest: Start 60-70 days after transplanting. Pick fruits when glossy. Yield: 15-20 tonnes per acre.",
+    "tags": ["brinjal", "eggplant", "fruit shoot borer", "cultivation", "Spinosad"]
+  },
+  {
+    "id": "groundnut-cultivation-026",
+    "category": "cultivation",
+    "crop": "groundnut",
+    "title": "Groundnut Cultivation Guide",
+    "content": "Groundnut (peanut) cultivation: Seasons - Kharif (main) and Rabi/summer. Soil: Sandy loam with good calcium availability, pH 6.0-7.0. Seed rate: 50-60 kg per acre (bunch type), 30-40 kg (spreading type). Seed treatment: Thiram at 3g/kg + Rhizobium + PSB culture. Spacing: 30x10 cm (bunch), 45x15 cm (spreading). Fertilizer: NPK 25:50:40 kg/hectare. Apply Gypsum at 200 kg per acre at pegging stage (crucial for pod filling). Irrigation: Critical at flowering (35-40 DAS), pegging (50-60 DAS), and pod development. Total 5-6 irrigations. Major diseases: Tikka disease (leaf spots) - spray Mancozeb at 2g/liter. Collar rot - seed treatment with Trichoderma. Pests: Leaf miner, aphids, white grub (apply Chlorpyrifos granules). Harvest: When 75% pods mature (inner shell darkens). Dry to 8-10% moisture. Yield: 8-12 quintals per acre. Aflatoxin prevention: Proper drying and storage at <10% moisture.",
+    "tags": ["groundnut", "peanut", "gypsum", "pegging", "tikka disease", "aflatoxin"]
+  },
+  {
+    "id": "mango-management-027",
+    "category": "cultivation",
+    "crop": "mango",
+    "title": "Mango Orchard Management",
+    "content": "Mango orchard management: Varieties - Alphonso, Dasheri, Langra, Kesar, Totapuri, Mallika. Spacing: 10x10m (traditional), 5x5m (high density). Fertilizer per tree per year: Age x 200g N, Age x 100g P2O5, Age x 200g K2O (max at 10 years). Apply in two splits - June and October. Micronutrients: Borax spray (0.4%) at mustard stage, ZnSO4 spray (0.5%) post-harvest. Flowering management: Avoid irrigation 2-3 months before flowering (stress induces flowering). Spray KNO3 at 2% for uniform flowering. Paclobutrazol at 5ml per meter canopy diameter (July-August) for regular bearing. Pest management: 1) Mango hopper - spray Imidacloprid at 0.5ml/liter before flowering. 2) Fruit fly - install methyl eugenol traps. Spray Deltamethrin at marble stage. 3) Powdery mildew - spray Wettable Sulfur at 2g/liter at panicle emergence. Harvesting: Pick fruits at mature green stage with pedicel. Avoid ground contact. Hot water treatment at 52°C for 5 minutes for export quality.",
+    "tags": ["mango", "orchard", "flowering", "paclobutrazol", "hopper", "fruit fly"]
+  },
+  {
+    "id": "soybean-cultivation-028",
+    "category": "cultivation",
+    "crop": "soybean",
+    "title": "Soybean Cultivation Guide",
+    "content": "Soybean cultivation: Major Kharif crop in Central India (MP, Maharashtra, Rajasthan). Soil: Well-drained black or alluvial soil, pH 6.0-7.5. Seed rate: 30-35 kg per acre. Seed treatment: Thiram (3g/kg) + Rhizobium + PSB culture. Inoculation with Bradyrhizobium japonicum is essential for first-time fields. Spacing: 45x5 cm (line sowing) or 30cm row spacing with seed drill. Fertilizer: NPK 20:80:20 kg/hectare. Being a legume, soybean fixes its own nitrogen - avoid excess N which promotes vegetative growth. Apply Sulfur at 20 kg per acre (important for oil content). Irrigation: Usually rainfed in Kharif. If dry spell occurs, irrigate at flowering and pod-filling stages. Pests: 1) Stem fly - seed treatment with Thiamethoxam. 2) Tobacco caterpillar - Spray Nomuraea rileyi or Chlorantraniliprole. 3) Girdle beetle - early sowing helps escape. Diseases: Yellow mosaic virus - use resistant varieties (JS 335, JS 9560). Harvest: When leaves turn yellow and pods are brown (95-110 DAS). Thresh at 12% moisture. Yield: 8-12 quintals per acre.",
+    "tags": ["soybean", "Rhizobium", "sulfur", "yellow mosaic", "legume", "kharif"]
+  },
+  {
+    "id": "mushroom-cultivation-029",
+    "category": "cultivation",
+    "crop": "mushroom",
+    "title": "Mushroom Cultivation for Extra Income",
+    "content": "Mushroom cultivation is ideal for supplementary income, especially for small farmers. Types: 1) Oyster mushroom: Easiest for beginners. Grow on paddy straw, wheat straw, or sugarcane bagasse. Temperature: 20-30°C. Spawn to harvest: 25-30 days. Yield: 750-800 kg per tonne substrate. 2) Button mushroom: Requires temperature 14-18°C (winter crop). Grow on composted wheat straw + chicken manure. Compost preparation: 28-day process. Spawn run: 15-20 days. Yield: 10-12 kg per 100 kg compost. 3) Milky mushroom: Suitable for hot climate (25-35°C). Grow on paddy straw. Good for South India. Investment: Rs 10,000-25,000 for small setup (100 bags). Returns: 4-5 times investment in 2-3 months. Requirements: Shade structure, spawning room with 80-85% humidity. Pasteurize substrate in hot water at 80°C for 2 hours. Marketing: Sell fresh at Rs 100-200/kg or dried at Rs 800-1,200/kg. Can also make pickle, powder, chips for value addition. Training available at ICAR-DMR Solan and state agriculture universities.",
+    "tags": ["mushroom", "oyster", "button", "supplementary income", "spawn", "substrate"]
+  },
+  {
+    "id": "climate-resilient-030",
+    "category": "climate",
+    "crop": "general",
+    "title": "Climate-Resilient Farming Practices",
+    "content": "Climate change adaptation for Indian farmers: 1) Drought management: Grow drought-tolerant varieties (Sahbhagi Dhan for rice, C-306 for wheat). Use mulching to conserve soil moisture. Practice deficit irrigation (irrigate at 60% depletion instead of 50%). 2) Flood resilience: Grow flood-tolerant varieties (Swarna Sub1 rice - survives 14 days submergence). Raised bed cultivation in flood-prone areas. 3) Heat stress: Advance sowing dates by 7-10 days. Use foliar spray of KCl (1%) during heat waves. Grow heat-tolerant varieties (HD-2967 wheat). 4) Crop diversification: Don't depend on single crop. Mix cereals, pulses, oilseeds, vegetables. 5) Agroforestry: Plant trees (Neem, Eucalyptus, Teak) on field boundaries. Provides shade, additional income, and carbon sequestration. National Agroforestry Policy provides support. 6) Weather-based crop insurance: Enroll in PMFBY before every season. 7) Climate-smart agriculture: Zero tillage, direct seeded rice, conservation agriculture reduces emissions and costs.",
+    "tags": ["climate", "drought", "flood", "heat stress", "resilient varieties", "agroforestry"]
+  },
+  {
+    "id": "vermicompost-031",
+    "category": "organic_farming",
+    "crop": "general",
+    "title": "Vermicomposting Detailed Guide",
+    "content": "Vermicomposting converts organic waste into nutrient-rich compost using earthworms. Setup: 1) Select site: Shaded area, protected from rain and direct sun. 2) Bed preparation: Concrete/brick bed of 10ft x 3ft x 1.5ft or use silpaulin sheets. 3) Base layer: 3-inch layer of small pebbles for drainage, then 3-inch sand layer. 4) Bedding: 6-inch layer of partially decomposed cow dung mixed with shredded crop residue. 5) Worm introduction: Add Eisenia fetida (red wigglers) at 1 kg per bed (approximately 1000-1500 worms). 6) Feeding: Add shredded organic waste in thin layers (2-3 inches) every week. Avoid: meat, dairy, oily food, citrus. 7) Moisture: Maintain 60-70% moisture by sprinkling water. 8) Harvesting: After 45-60 days, stop watering for 2-3 days. Worms migrate down. Scrape top layer of vermicompost. 9) Vermiwash: Liquid that drains from vermicompost. Excellent foliar spray at 1:10 dilution. Yield: 60-70 kg compost from 100 kg waste. NPK content: approximately 1.5:0.5:0.8%. Rich in beneficial microbes. Income: Can sell at Rs 5-10 per kg.",
+    "tags": ["vermicompost", "earthworm", "Eisenia fetida", "vermiwash", "organic", "waste management"]
+  },
+  {
+    "id": "greenhouse-farming-032",
+    "category": "technology",
+    "crop": "general",
+    "title": "Protected Cultivation and Greenhouse Farming",
+    "content": "Protected cultivation for high-value crops: 1) Polyhouse/Greenhouse: Controlled environment with UV-stabilized polyethylene cover. Types: Naturally ventilated (low cost, Rs 350-500/sq.m), Climate controlled (high tech, Rs 1,500-2,500/sq.m). Best crops: Capsicum, cucumber, tomato, gerbera, carnation, rose. Yield 3-5 times higher than open field. 2) Shade net house: 35-75% shade net. Cost: Rs 100-150/sq.m. Good for nursery, leafy vegetables, flowers. 3) Low tunnel: Plastic covers on wire hoops. Cost-effective for early crop production. 4) Rain shelter: Protects from excess rain. Essential for tomato in monsoon. Government subsidy: 50-65% under NHM (National Horticulture Mission). Fertigation is essential in greenhouse: Use water-soluble fertilizers through drip system. Monitor EC and pH of nutrient solution. Common issues: White fly, mites (use sticky traps), high humidity diseases (ventilation management). Can earn Rs 4-6 lakh per acre per year from greenhouse capsicum or flowers.",
+    "tags": ["greenhouse", "polyhouse", "protected cultivation", "shade net", "NHM subsidy", "capsicum"]
+  },
+  {
+    "id": "turmeric-cultivation-033",
+    "category": "cultivation",
+    "crop": "turmeric",
+    "title": "Turmeric Cultivation Guide",
+    "content": "Turmeric (Haldi) cultivation: Major growing states - Telangana, Maharashtra, Tamil Nadu, Karnataka. Soil: Well-drained loamy soil rich in organic matter, pH 5.0-7.5. Planting: Use healthy rhizome fingers (25-30g each). Seed rate: 1,000-1,200 kg per acre. Spacing: 45x25 cm. Plant in ridges and furrows. Season: April-May (with pre-monsoon showers). Fertilizer: FYM 15 tonnes/acre + NPK 60:50:120 kg/hectare. Apply Nitrogen in 3 splits. Potassium is crucial for rhizome development. Mulching: Apply paddy straw or green leaves at 12-15 tonnes per acre immediately after planting and repeat at 45 and 90 days. Reduces weeds and conserves moisture. Irrigation: At 7-10 day intervals. Stop 1 month before harvest. Pests: Rhizome scale, shoot borer. Diseases: Rhizome rot (Pythium) - soil drenching with Metalaxyl. Leaf blotch - spray Mancozeb. Harvest: 8-9 months after planting when leaves dry up. Curing: Boil fresh turmeric in water for 45-60 minutes, then sun-dry for 10-15 days. Polishing in drums. Yield: 8-10 tonnes fresh (2-2.5 tonnes dry) per acre.",
+    "tags": ["turmeric", "haldi", "rhizome", "curing", "mulching", "spice"]
+  },
+  {
+    "id": "dairy-integration-034",
+    "category": "allied_activities",
+    "crop": "general",
+    "title": "Dairy Farming Integration with Agriculture",
+    "content": "Integrated dairy-farming system for enhanced income: Breed selection: Holstein Friesian cross (15-20 liters/day), Jersey cross (10-15 liters/day), Sahiwal (8-10 liters/day, heat tolerant), Gir (6-8 liters/day, A2 milk premium). Housing: East-west oriented shed, 40 sq.ft per animal, proper ventilation and drainage. Feeding: 3 kg concentrate per 1 kg milk produced. Green fodder (25-30 kg/day): Napier grass, Maize, Berseem. Dry fodder (5-6 kg/day): Paddy straw, wheat straw. Mineral mixture: 50g per day. Fodder cultivation: Grow Napier grass on field borders (perennial, high yield 200-300 tonnes/acre/year). Berseem in Rabi, Sorghum/Maize in Kharif. Health: Vaccinate for FMD, HS, BQ. Deworm every 3 months. Artificial insemination for breed improvement. Economics: Investment Rs 3-5 lakh for 5 crossbred cows. Monthly milk income Rs 30,000-50,000. FYM production: 10 tonnes per cow per year (saves Rs 15,000-20,000 on fertilizers). Biogas: 2 cows produce enough dung for family biogas plant (2 cubic meter).",
+    "tags": ["dairy", "cow", "milk", "fodder", "Napier grass", "integrated farming", "FYM", "biogas"]
+  },
+  {
+    "id": "seed-treatment-035",
+    "category": "cultivation",
+    "crop": "general",
+    "title": "Seed Treatment and Quality Seeds",
+    "content": "Seed treatment protects against soil-borne and seed-borne diseases: 1) Chemical treatment: Thiram (2-3g/kg seed) for fungal diseases. Carbendazim (2g/kg) for smut and wilt. Imidacloprid (5g/kg) for early pest protection. Chlorpyrifos (5ml/kg) for soil insects. 2) Biological treatment: Trichoderma viride (5g/kg) for soil-borne fungi. Pseudomonas fluorescens (10g/kg) for bacterial diseases. 3) Biofertilizer inoculation: Rhizobium (20g/kg) for pulses. Azospirillum (20g/kg) for cereals. PSB - Phosphate Solubilizing Bacteria (20g/kg) for all crops. 4) Treatment order: Chemical first (let dry), then biofertilizer (shade dry). Never mix chemical and biological agents in same step. Seed quality: Use certified seeds from government agencies (NSC, state seed corporations) or reliable private companies. Replace seed every 3 years for self-pollinated crops. Always use certified hybrid seed (don't save hybrid seed). Seed storage: Keep in cool, dry place. Moisture below 12%. Use Neem leaves in storage containers.",
+    "tags": ["seed treatment", "Trichoderma", "Rhizobium", "certified seed", "biofertilizer", "PSB"]
+  },
+  {
+    "id": "weed-management-036",
+    "category": "cultivation",
+    "crop": "general",
+    "title": "Weed Management in Crops",
+    "content": "Integrated weed management (IWM): 1) Preventive: Use weed-free seeds and clean implements. Manage field bunds. 2) Cultural: Timely sowing, proper spacing, use of cover crops and mulching. Competitive crop varieties. 3) Mechanical: Manual weeding, hoeing, rotary weeder in rice, cycle weeder between rows. 4) Chemical herbicides: Pre-emergence (apply before weed emergence): Pendimethalin 30EC at 3.3ml/liter for most crops, Atrazine 50WP at 2g/liter for maize/sugarcane. Post-emergence: 2,4-D at 2ml/liter for broadleaf weeds in wheat/rice (apply at 25-30 DAS). Metsulfuron-methyl at 0.2g/liter for wheat. Bispyribac sodium at 1ml/liter for rice (very effective). Imazethapyr at 2ml/liter for soybean/pulses. 5) Important: Use flat fan nozzle for herbicides. Spray 200 liters water per acre. Avoid drift to adjacent crops. Don't spray in wind >8 km/h. Calibrate sprayer before use. 6) Stale seedbed: Irrigate field, allow weeds to emerge, spray Paraquat, then sow crop without tillage.",
+    "tags": ["weed", "herbicide", "Pendimethalin", "2,4-D", "IWM", "pre-emergence", "post-emergence"]
+  },
+  {
+    "id": "grape-cultivation-037",
+    "category": "cultivation",
+    "crop": "grape",
+    "title": "Grape Cultivation and Management",
+    "content": "Grape cultivation in India: Major regions - Maharashtra (Nashik, Sangli), Karnataka, AP. Varieties: Thompson Seedless, Sharad Seedless, Crimson Seedless, Flame Seedless. Planting: Y-trellis or T-trellis system. Spacing: 3x1.5m (Y-trellis), 3x2m (T-trellis). Use grafted vines on Dogridge rootstock for nematode resistance. Pruning: Foundation pruning (April) - remove old wood. October pruning (forward pruning) for fruiting. Leave 10-12 canes per vine. Growth regulation: GA3 spray at 30-40 ppm at full bloom for berry elongation. CPPU at 2-3 ppm for berry size. Girdling at pea stage increases berry size. Fertilizer: NPK 500:250:500 g/vine/year through fertigation. Micronutrients crucial - Boron, Zinc, Iron. Disease: Downy mildew (spray Metalaxyl + Mancozeb), Powdery mildew (spray Sulfur), Anthracnose (spray Carbendazim). Pests: Flea beetle, mealybug, thrips. Harvest: 4-5 months after pruning. Pack in ventilated crates. Cold storage at -1 to 0°C with SO2 pads. Export quality: Berry weight >5g, TSS >16 Brix. Yield: 10-15 tonnes per acre.",
+    "tags": ["grape", "pruning", "trellis", "GA3", "downy mildew", "Thompson Seedless", "export"]
+  },
+  {
+    "id": "sprayer-calibration-038",
+    "category": "technology",
+    "crop": "general",
+    "title": "Spray Technology and Equipment",
+    "content": "Proper spraying technique is critical for effective pest and disease management: 1) Knapsack sprayer: Most common. Capacity 16 liters. Use hollow cone nozzle for insecticides/fungicides. Flat fan nozzle for herbicides. Maintain 40-60 PSI pressure. Walk speed: 1 m/second. Coverage: 200 liters spray solution per acre. 2) Power sprayer: For orchard and large fields. Higher pressure (150-300 PSI) ensures better coverage. 3) Battery-operated sprayer: 12V or 16V. Good for small farms. Light weight (5-6 kg). 4) Drone sprayer: New technology. Covers 1 acre in 10 minutes. Payload: 10-16 liters. Cost: Rs 500-800 per acre as service. Government promoting through subsidies. 5) Calibration: Fill tank with water, spray 100 sq.m area, measure water used. Calculate: (Water used x 10,000) / 100 = liters per hectare. Adjust nozzle/speed to achieve target volume. Safety: Wear gloves, mask, full sleeves. Don't spray against wind. Don't eat/drink while spraying. Wash hands and equipment after use. Don't spray near water bodies. Observe waiting period before harvest.",
+    "tags": ["sprayer", "nozzle", "calibration", "drone", "safety", "PPE", "knapsack"]
+  },
+  {
+    "id": "paddy-pest-039",
+    "category": "pest_control",
+    "crop": "rice",
+    "title": "Rice (Paddy) Pest Management",
+    "content": "Major rice pests and management: 1) Stem borer (yellow and striped): Causes dead heart in vegetative stage and white ear in reproductive stage. Apply Carbofuran 3G at 10 kg per acre in nursery. In main field, spray Chlorantraniliprole 18.5SC at 0.3ml/liter. Install light traps (1 per 5 acres). 2) Leaf folder: Folds leaves longitudinally, scrapes green tissue. Spray Cartap hydrochloride at 1g/liter or Chlorantraniliprole. 3) Brown planthopper (BPH): Sucks sap at base, causes hopper burn. Don't apply synthetic pyrethroids (causes resurgence). Spray Pymetrozine at 0.6g/liter or Buprofezin at 1.5ml/liter. Drain water, apply fertilizer to help recovery. 4) Gall midge: Causes silver shoot (onion leaf-like). Grow resistant varieties. Spray Fipronil at 1ml/liter. 5) Rice hispa: Blue-black beetles scrape leaves. Hand collect adults. Spray Quinalphos at 2ml/liter. Integrated approach: Maintain 2-3 cm water to prevent BPH. Clip leaf tips before transplanting to remove egg masses. Conserve spiders and dragonflies (natural enemies).",
+    "tags": ["rice", "paddy", "stem borer", "BPH", "leaf folder", "gall midge", "dead heart"]
+  },
+  {
+    "id": "micro-irrigation-subsidies-040",
+    "category": "schemes",
+    "crop": "general",
+    "title": "Micro Irrigation Subsidies and Application Process",
+    "content": "Micro irrigation (drip and sprinkler) subsidy details under PMKSY - Per Drop More Crop: Subsidy rates: Small and marginal farmers (<2 hectares) get 55% of system cost. Other farmers get 45%. Additional 10-20% state subsidy in some states (total up to 90% in some states). How to apply: 1) Visit district agriculture office or apply online on state agriculture portal. 2) Documents needed: Aadhaar card, land records (7/12 extract), bank passbook, caste certificate (if applicable), water source certificate. 3) Get technical survey done by empaneled company. 4) Choose system and company from government-approved list. 5) After installation and verification by agriculture officer, subsidy credited to bank account. 6) Timeline: Usually 2-4 months from application to installation. Costs (before subsidy): Drip system: Rs 30,000-50,000 per acre. Sprinkler system: Rs 15,000-25,000 per acre. Benefits: 40-60% water saving, 20-30% yield increase, reduced labor, fertigation capability. Maintenance: Clean filters regularly, flush laterals monthly, replace damaged drippers.",
+    "tags": ["subsidy", "micro irrigation", "drip", "sprinkler", "PMKSY", "application process"]
+  },
+  {
+    "id": "neem-uses-041",
+    "category": "organic_farming",
+    "crop": "general",
+    "title": "Neem in Agriculture - Complete Guide",
+    "content": "Neem (Azadirachta indica) is the most versatile tree for organic farming: 1) Neem oil spray: Mix 5ml neem oil + 1ml liquid soap in 1 liter water. Effective against 200+ insect species including aphids, whitefly, thrips, mealybugs, caterpillars. Acts as antifeedant, growth regulator, and repellent. Spray every 7-10 days. Safe for beneficial insects and bees (spray in evening). 2) Neem cake: Apply 250 kg per acre as soil application. Acts as fertilizer (NPK 5:1:2) and pest repellent. Controls nematodes, grubs, termites. Mix with urea to slow nitrogen release (nitrification inhibitor). 3) Neem kernel extract: Crush 500g neem kernels in 10 liters water, soak overnight, strain and spray. Most concentrated form of azadirachtin. 4) Neem leaf extract: Soak 1 kg neem leaves in 5 liters water for 3 days. Strain and spray. 5) Neem-coated urea: Government mandated. Reduces nitrogen loss by 10-15%. Improves fertilizer efficiency. 6) Neem wood: Pest-resistant timber for farm tools and construction. One neem tree can provide enough leaves/fruits for 2-3 acres of organic farming. Plant neem on field borders for continuous supply.",
+    "tags": ["neem", "organic", "azadirachtin", "neem oil", "neem cake", "biopesticide"]
+  },
+  {
+    "id": "flower-cultivation-042",
+    "category": "cultivation",
+    "crop": "flowers",
+    "title": "Commercial Flower Cultivation",
+    "content": "Floriculture for high returns: 1) Marigold: Most popular. Varieties - Pusa Narangi Gainda, African Giant. Season: All year (main: July-August, October). Spacing: 40x30 cm. Yield: 8-10 tonnes per acre. Income: Rs 1-3 lakh per acre per season. Used for garlands, loose flowers, oleoresin. 2) Rose: Varieties - Gladiator, Top Secret, Tajmahal. Planted as cuttings/budded plants. Spacing: 75x30 cm in polyhouse, 90x60 cm open field. Pruning in October for winter flush. Yield: 15-20 lakh stems per acre per year (polyhouse). 3) Jasmine: Perennial, produces for 15-20 years. Varieties - Madanban, CO.1, CO.2. Spacing: 1.5x1.5m. Peak harvest: April-September. Income: Rs 1.5-2.5 lakh per acre per year. 4) Chrysanthemum: Short-day plant. Pinching for bush type. Grow under shade net for better color. 5) Tuberose: Plant bulbs in March-April. Spacing: 30x30 cm. Single and double varieties. General: Flowers are perishable - have market linkage before planting. Government provides NHM subsidy (50%) for flower cultivation.",
+    "tags": ["flowers", "marigold", "rose", "jasmine", "floriculture", "NHM", "polyhouse"]
+  },
+  {
+    "id": "beekeeping-043",
+    "category": "allied_activities",
+    "crop": "general",
+    "title": "Beekeeping for Pollination and Income",
+    "content": "Beekeeping (apiculture) benefits: Pollination increases crop yield by 20-30% and provides honey income. Species: Apis mellifera (Italian bee, most productive), Apis cerana (Indian bee, hardy). Getting started: 1) Equipment: Langstroth beehive box (Rs 2,000-3,000), bee veil, gloves, smoker, hive tool. Buy 5-10 bee colonies initially. 2) Placement: Near flowering crops/orchards, access to water, shade, away from pesticide-sprayed fields. Face hives east for morning warmth. 3) Management: Inspect every 7-10 days. Look for queen, brood pattern, food stores, pests. Feed sugar syrup (1:1) during dearth period. 4) Honey harvest: Use bee escape board or smoking. Extract using centrifugal extractor. Don't heat above 40°C. Moisture should be below 20%. 5) Yield: 30-40 kg honey per colony per year (A. mellifera). 6) Income: Honey at Rs 200-500/kg (depending on floral source). Beeswax, royal jelly, propolis are additional products. 7) Pollination services: Rent colonies at Rs 1,500-2,000 per colony to orchards. Government schemes: NBHM provides 80% subsidy on beekeeping equipment. Training available at KVKs and CBRTI Pune.",
+    "tags": ["beekeeping", "honey", "pollination", "Apis mellifera", "NBHM", "apiculture"]
+  },
+  {
+    "id": "precision-farming-044",
+    "category": "technology",
+    "crop": "general",
+    "title": "Precision Farming and Digital Agriculture",
+    "content": "Modern technology adoption for Indian farmers: 1) Soil moisture sensors: Install at root zone depth. Irrigate only when moisture drops below threshold. Cost: Rs 5,000-15,000 per sensor. 2) Weather stations: Automatic weather stations for micro-climate data. Available through state agriculture departments. 3) Drone technology: Crop health monitoring using NDVI imaging. Spray application (10 liters payload, 1 acre in 10 min). Government subsidy up to 100% for farm-level drones through CHC (Custom Hiring Centers). 4) Mobile apps: Kisan Suvidha (weather, market prices), mKisan (advisories), IFFCO Kisan (expert advice), Plantix (disease identification from photo). 5) GPS-guided machinery: Laser land leveling, GPS-guided tractors for precise sowing. Available through CHCs. 6) Remote sensing: Satellite-based crop monitoring for insurance claims (PMFBY). 7) IoT in agriculture: Automated drip irrigation with soil moisture sensors. Greenhouse environment control. Livestock monitoring. 8) AI and Machine Learning: Crop disease identification apps, yield prediction, weather forecasting. 9) Blockchain: Traceability for organic and export produce. FPOs can use for quality certification.",
+    "tags": ["precision farming", "drone", "IoT", "mobile apps", "GPS", "digital agriculture"]
+  },
+  {
+    "id": "wheat-varieties-045",
+    "category": "varieties",
+    "crop": "wheat",
+    "title": "Recommended Wheat Varieties by Region",
+    "content": "Recommended wheat varieties for different zones of India: 1) North Western Plains (Punjab, Haryana, Western UP): HD-3086 (high yield, 55-60 q/ha), PBW-725 (rust resistant), WH-1105 (early maturing). For late sowing: HD-3059, PBW-752. 2) North Eastern Plains (Eastern UP, Bihar): HD-2967 (most popular, wide adaptability), NW-5054, DBW-187. Late sown: K-1006, NW-1014. 3) Central Zone (MP, Gujarat, Rajasthan): GW-322 (drought tolerant), HI-1605, MP-1203. Irrigated: LOK-1, Sujata. 4) Peninsular Zone (Maharashtra, Karnataka): NIAW-34, NI-5439, UAS-304. Durum wheat: MACS-3949, HI-8713. Key traits to look for: Disease resistance (rust), heat tolerance (for late sowing), high protein (>12% for bread wheat), bold grain. Seed replacement: Use certified seed every 3 years. Source from NSC, ICAR stations, or state seed corporations. New varieties: DBW-222 (biofortified with zinc), HD-3226 (heat tolerant), PBW-826 (multiple disease resistant). Always check latest recommendations from your state agriculture university.",
+    "tags": ["wheat", "varieties", "HD-2967", "PBW-725", "rust resistant", "late sowing"]
+  },
+  {
+    "id": "sugarcane-management-046",
+    "category": "cultivation",
+    "crop": "sugarcane",
+    "title": "Advanced Sugarcane Management",
+    "content": "Sugarcane advanced management: Planting methods: 1) Flat method: Standard furrow planting at 75-90 cm row spacing. 2) Ring pit method: Pits of 90 cm diameter, 30 cm deep. Plant 24-28 setts per pit. Yield 50-60% higher than conventional. 3) Trench method: 30 cm deep, 30 cm wide trenches at 120 cm spacing. Better for ratoon management. Sett treatment: Soak in Carbendazim (2g/liter) for 15 minutes + Imidacloprid (0.5ml/liter) for termite/borer protection. Trash mulching: After harvest, spread sugarcane trash at 8-10 tonnes per acre. Conserves moisture, controls weeds, adds organic matter. Ratoon management: Don't take more than 2-3 ratoons. After harvest, immediately irrigate, apply extra 25% nitrogen, and do gap filling. Stubble shaving close to ground level improves ratoon sprouting. Intercropping: Sugarcane + potato (early potato harvested before sugarcane grows tall). Sugarcane + onion or lentil in wider spacing. Detrashing: Remove dry leaves up to 5th node at 5 and 7 months for better aeration and reducing pest incidence. Major pest: Early shoot borer (dead hearts) - spray Chlorantraniliprole. Internode borer - release Trichogramma chilonis.",
+    "tags": ["sugarcane", "ring pit", "trench", "ratoon", "trash mulching", "intercropping"]
+  },
+  {
+    "id": "fish-farming-047",
+    "category": "allied_activities",
+    "crop": "general",
+    "title": "Fish Farming Integration with Agriculture",
+    "content": "Integrated fish farming with agriculture: 1) Farm pond fish culture: Stock fish in irrigation ponds. Species: Catla, Rohu, Mrigal (Indian major carps) in combination. Stocking: 5,000 fingerlings per acre of water. Feed: Rice bran + mustard cake (1:1) at 2-3% body weight daily. Supplementary feed with azolla (grows on pond surface). Yield: 2-3 tonnes per acre per year. Income: Rs 1.5-2.5 lakh per acre. 2) Paddy-fish culture: Stock fish in rice fields during Kharif. Dig refuge trench (1m wide, 0.5m deep) along field bunds. Stock 2,000 fingerlings per acre after 15 days of transplanting. Fish eat insects and weeds, excreta fertilizes paddy. Harvest fish before paddy harvest. Additional income: Rs 10,000-15,000 per acre. 3) Biofloc fish culture: Intensive system in small tanks. High density: 50,000 fish per acre in 1-1.5m deep tanks. Requires aeration and carbon source (molasses). Species: Tilapia, Pangasius. 6-month cycle. Government subsidy: 40-60% under Blue Revolution (PMMSY). Yield: 8-10 tonnes per acre. Training available at CIFA Bhubaneswar and state fisheries departments.",
+    "tags": ["fish farming", "aquaculture", "paddy fish", "biofloc", "PMMSY", "integrated farming"]
+  },
+  {
+    "id": "cotton-varieties-048",
+    "category": "varieties",
+    "crop": "cotton",
+    "title": "Cotton Varieties and Bt Cotton Management",
+    "content": "Cotton varieties for Indian conditions: 1) Bt cotton hybrids: Most widely grown. Contains Cry1Ac and Cry2Ab genes for bollworm resistance. Popular hybrids: Jadoo, MRC-7351, Brahma, NCS-855. Choose based on duration: Early (150 days) for North India, Medium (160-170 days) for Central India, Long duration (180-200 days) for South India. 2) Non-Bt options: Suraj, PKV-081 (for organic farming). Higher pest management cost but premium price for organic cotton. 3) Desi cotton: G.Cot-21, Jayadhar. Lower yield but drought tolerant. Good for rainfed areas. 4) Bt cotton management: Plant 20% non-Bt refuge border (5 rows around field) - MANDATORY for resistance management. Don't save Bt cotton seed (F2 will segregate). Bt does not protect against sucking pests - monitor and manage separately. After 2nd picking, if pink bollworm damage seen, destroy crop residues immediately. 5) High Density Planting System (HDPS): Spacing 60x10 cm (1.5-2 lakh plants per acre instead of 10,000). Use compact varieties. No manual picking - machine harvest compatible. Under research/promotion for reducing labor costs.",
+    "tags": ["cotton", "Bt cotton", "refuge", "HDPS", "varieties", "bollworm resistance"]
+  },
+  {
+    "id": "kitchen-garden-049",
+    "category": "cultivation",
+    "crop": "vegetables",
+    "title": "Nutrition Garden (Kitchen Garden) Guide",
+    "content": "Nutrition garden for household food security: Setup in 10x10 meter area: 1) Layout: Divide into 8 beds of 4x1 meter with pathways. Keep one side for creepers (trellis). Compost pit in corner. 2) Seasonal plan: Kharif - Okra, bottle gourd, ridge gourd, cowpea, amaranthus. Rabi - Tomato, brinjal, cabbage, cauliflower, spinach, fenugreek, radish, carrot, peas. Summer - Cucumber, watermelon, muskmelon. 3) Perennials: Curry leaf, drumstick (moringa), papaya on borders. 4) Soil preparation: Mix compost/vermicompost at 2 kg per sq. meter. Raised beds of 15 cm height. 5) Pest management: Use neem oil spray only. Companion planting: Marigold with vegetables (repels whitefly). Basil near tomato. 6) Water: Install drip kit for kitchen garden (Rs 1,500-2,000). Or use wastewater from kitchen (grey water). 7) Benefits: Fresh, pesticide-free vegetables year-round. Saves Rs 500-1,000 per month on vegetable purchase. Nutritional security for family. Government provides free seeds and mini-kits through MIDH and ICDS programs. 8) Container gardening: For urban areas - grow in pots, grow bags, or vertical towers.",
+    "tags": ["kitchen garden", "nutrition garden", "vegetables", "organic", "household", "container gardening"]
+  },
+  {
+    "id": "harvest-timing-050",
+    "category": "post_harvest",
+    "crop": "general",
+    "title": "Optimal Harvest Timing for Major Crops",
+    "content": "Harvesting at the right time maximizes yield and quality: 1) Wheat: When grain is hard and moisture is 20-25%. Straw turns golden yellow. Test by biting grain - it should be hard. Delay causes shattering loss of 1-3% per day. 2) Rice: When 80% grains in panicle are mature (golden color). Moisture at 20-22%. Cut and thresh within 2-3 days. Late harvest increases grain cracking. 3) Cotton: Pick when bolls fully open and fluffy. Pick in morning after dew dries. Avoid rain-stained cotton. Grade separately: first pick (best quality) vs later picks. 4) Sugarcane: When Brix reading is >18 in juice. Harvest at 10-12 months (early) or 12-14 months (normal). Cut at ground level. Send to mill within 24 hours of cutting to prevent sugar loss. 5) Tomato: Pick at breaker stage (just turning pink) for distant market. Full red for local market. Don't harvest when wet. 6) Onion: When 50% tops fall over naturally. Don't push tops. Cure in shade for 3-5 days. 7) Potato: When skin is firm (doesn't peel when rubbed). Cut haulms 10 days before harvest for skin hardening. 8) Mango: Harvest at mature green stage. Shoulder development and specific gravity <1.0 indicate maturity.",
+    "tags": ["harvest", "timing", "maturity", "moisture content", "quality", "post-harvest loss"]
+  }
+]
